@@ -28,6 +28,6 @@ will skip it(Bounding box will tracking a image) and give a previous frame resul
 
   In this project used in all kind of tracking models.
     
-      *In some busy areas to identify speed of vehicles.
-      *Social distance.
-      *For security purpose.
+    *In some busy areas to identify speed of vehicles.
+    *Social distance.
+    *For security purpose.
